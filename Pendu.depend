@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1572635866 source:c:\users\famille nitopop\desktop\documents melvins\melvins console\pendu\fonctions.c
+	<stdio.h>
+	<string.h>
+	<ctype.h>
+	<stdlib.h>
+
+1572637844 source:c:\users\famille nitopop\desktop\documents melvins\melvins console\pendu\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<time.h>
+
